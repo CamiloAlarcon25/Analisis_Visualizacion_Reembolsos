@@ -12,7 +12,7 @@ Una regla de negocio crucial es el límite de reembolso de $150.000 por cada sub
 ## 3. Desarrollo y Metodología de Datos
 El proceso inicia con el registro de cada solicitud de reembolso. Inicialmente, los datos se encuentran dispersos en múltiples archivos Excel; cada archivo representa una subida de reembolso individual (ej. 09-09-2025.xlsx).
 ### A. Consolidación (Python)
-Se implementa un script de Python para unir todos los archivos Excel en un único dataset general, lo que permite un análisis consolidado de todos los trayectos y gastos.
+Se implementa un script de Python para unir todos los archivos Excel en un único dataset general, lo que permite un análisis consolidado de todos los trayectos y gastos (de la misma forma que el proyecto de finanzas).
 ### B. Transformación y Métricas (Power BI)
 La tabla unificada se importa a Power BI para su depuración y la creación de métricas clave. El proceso de Power Query se centra en la limpieza de datos y la garantía de su calidad.
 Para el análisis, se crearon métricas en DAX que cuantifican:

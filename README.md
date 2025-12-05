@@ -27,7 +27,7 @@ El dashboard de Power BI proporciona una visión clara de la dinámica de gastos
 ##### o	Reembolso Total: $2.004.618.
 ##### o	Gasto No Cubierto: La diferencia acumulada asciende a $276.339.
 #### •	Impacto del Límite:
-##### o	42,86% de los casos (6 transacciones) se ubicaron "Sobre-Tope", lo que significa que el costo del trayecto superó el límite de $150.000, generando un gasto no cubierto para el usuario4444.
+##### o	El 42,86% de los casos (6 transacciones) se ubicaron "Sobre-Tope", lo que significa que el costo del trayecto superó el límite de $150.000, generando un gasto no cubierto para el usuario.
 ##### o	Solo el 35,71% (5 transacciones) estuvo "Tope" (igual o por debajo del valor reembolsado).
 #### •	Trayectos Más Costosos: El análisis de los trayectos más caros indica que los viajes del 3 de noviembre ($231.056) y el del día 12 de octubre ($195.788) son las de mayor valor.
 #### •	Visualización Geográfica: El mapa de trayecto muestra claramente los puntos de origen y destino más frecuentes, concentrándose la actividad entre la Región de Valparaíso (Villa Alemana / La Calera) y la Región de Atacama (Copiapó / El Salvador).

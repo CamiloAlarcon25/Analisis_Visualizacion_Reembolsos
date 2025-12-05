@@ -5,9 +5,9 @@ Este proyecto se enfoca en el análisis de los gastos de traslado y el proceso d
 Una regla de negocio crucial es el límite de reembolso de $150.000 por cada subida de gasto.
 
 ## 2. Tecnologías y Herramientas
-### Excel:	Almacenamiento inicial de los registros de trayectos.
-### Python:	Consolidación de múltiples archivos de datos de subidas individuales.
-### Power BI:	Modelado, limpieza (Power Query), creación de métricas (DAX), y visualización de datos geográficos.
+#### Excel:	Almacenamiento inicial de los registros de trayectos.
+#### Python:	Consolidación de múltiples archivos de datos de subidas individuales.
+#### Power BI:	Modelado, limpieza (Power Query), creación de métricas (DAX), y visualización de datos geográficos.
 
 ## 3. Desarrollo y Metodología de Datos
 El proceso inicia con el registro de cada solicitud de reembolso. Inicialmente, los datos se encuentran dispersos en múltiples archivos Excel; cada archivo representa una subida de reembolso individual (ej. 09-09-2025.xlsx).

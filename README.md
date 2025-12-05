@@ -33,4 +33,4 @@ El dashboard de Power BI proporciona una visión clara de la dinámica de gastos
 #### •	Visualización Geográfica: El mapa de trayecto muestra claramente los puntos de origen y destino más frecuentes, concentrándose la actividad entre la Región de Valparaíso (Villa Alemana / La Calera) y la Región de Atacama (Copiapó / El Salvador).
 
 Enlace del dashboard en formato pdf:
-https://github.com/CamiloAlarcon25/Analisis-y-Visualizacion-de-Reembolsos-y-trayectos/blob/main/pbix_Reembolso.pdf
+https://github.com/CamiloAlarcon25/Analisis_Visualizacion_Reembolsos/blob/main/pbix_Reembolso.pdf
